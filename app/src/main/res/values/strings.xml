@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ImagePro</string>
+    <string name="picker">Picker</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="oops">Oops !</string>
+    <string name="something_went_wrong_picking_image">Something went wrong while picking image.\nPlease try again.</string>
+    <string name="alert">Alert !</string>
+    <string name="ok">OK</string>
+    <string name="pls_grant_permission_to_pik">Please grant permission to pick pictures.</string>
+    <string name="picture">Picture</string>
+    <string name="selected_pic">Selected Picture</string>
+    <string name="add_description">Add a description to thi picture</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_description">No description…</string>
+    <string name="add_pic">Add Picture</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

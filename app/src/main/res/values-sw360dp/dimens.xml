@@ -1,0 +1,19 @@
+<resources>
+
+    <!--11.25-->
+    <dimen name="sp_12">13.5sp</dimen>
+    <dimen name="sp_16">18sp</dimen>
+    <dimen name="sp_18">20.25sp</dimen>
+
+    <dimen name="dp_2">2.25dp</dimen>
+    <dimen name="dp_5">5.625dp</dimen>
+    <dimen name="dp_10">11.25dp</dimen>
+    <dimen name="dp_16">18dp</dimen>
+    <dimen name="dp_25">28.125dp</dimen>
+    <dimen name="dp_30">33.75dp</dimen>
+    <dimen name="dp_50">56.25dp</dimen>
+    <dimen name="dp_100">112.5dp</dimen>
+    <dimen name="dp_150">168.75dp</dimen>
+    <dimen name="dp_250">281.25dp</dimen>
+    <dimen name="dp_300">337.5dp</dimen>
+</resources>

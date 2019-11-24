@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    tools:context=".activities.Viewer">
+
+    <project.task.saurabh.imagepro.utils.ZoomableImage
+        android:id="@+id/ivPic"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:adjustViewBounds="true"
+        android:clickable="true"
+        android:contentDescription="@string/picture"
+        android:focusable="true"
+        android:gravity="center"
+        android:keepScreenOn="true" />
+
+    <project.task.saurabh.imagepro.utils.BoldTextView
+        android:id="@+id/tvDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="@dimen/dp_10"
+        android:layout_marginEnd="@dimen/dp_10"
+        android:layout_marginBottom="@dimen/dp_10"
+        android:clickable="true"
+        android:focusable="true"
+        android:minHeight="@dimen/dp_30"
+        android:padding="@dimen/dp_5"
+        android:text="@string/no_description"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/sp_12" />
+
+</RelativeLayout>
